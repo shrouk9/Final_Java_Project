@@ -23,6 +23,6 @@ https://www.kaggle.com/omarhanyy/wuzzuf-jobs
 
 ## Team Members:
 
-1. Shrouk Abdelhameed Elmasry
-2. Ayat Ahmed AbdElmonem Mohamed Qabeel
+1. Shrouk Abdelhameed Elmasry https://github.com/shrouk9
+2. Ayat Ahmed AbdElmonem Mohamed Qabeel https://github.com/ayat770
 
