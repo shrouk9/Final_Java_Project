@@ -21,9 +21,8 @@
 Wuzzuf jobs in Egypt data set at Kaggle
 https://www.kaggle.com/omarhanyy/wuzzuf-jobs
 
-Team Members:
+## Team Members:
 
 1. Shrouk Abdelhameed Elmasry
 2. Ayat Ahmed AbdElmonem Mohamed Qabeel
-3. Ahmed Hussin Abdelhakeem
-4. Menna Hegy
+
